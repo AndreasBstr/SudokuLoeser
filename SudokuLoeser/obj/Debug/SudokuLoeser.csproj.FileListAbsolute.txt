@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\SudokuLoeser\SudokuLoeser\bin\Debug\SudokuLoeser.exe.config
+C:\Users\andre\source\repos\SudokuLoeser\SudokuLoeser\bin\Debug\SudokuLoeser.exe
+C:\Users\andre\source\repos\SudokuLoeser\SudokuLoeser\bin\Debug\SudokuLoeser.pdb
+C:\Users\andre\source\repos\SudokuLoeser\SudokuLoeser\obj\Debug\SudokuLoeser.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\SudokuLoeser\SudokuLoeser\obj\Debug\SudokuLoeser.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\SudokuLoeser\SudokuLoeser\obj\Debug\SudokuLoeser.exe
+C:\Users\andre\source\repos\SudokuLoeser\SudokuLoeser\obj\Debug\SudokuLoeser.pdb
